@@ -1,9 +1,4 @@
-I have created a restaurant website using React technology, and I have designed the website components in a way that all sections made use of CSS and I have created a good user interface.
-
 ![Website](https://github.com/MuhammadHamzaSabir/Resturant_Website/assets/146830981/96dbdbda-fd64-4274-b32a-a5f21d473adc)
-
-
-
 
 
 # Getting Started with Create React App
